@@ -1,0 +1,6 @@
+pynput>=1.7.6
+numpy>=2.1.0
+opencv-python>=4.9.0.80
+mss>=9.0.1
+pygetwindow>=0.0.9
+psutil>=5.9.8
