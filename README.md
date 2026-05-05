@@ -1,5 +1,9 @@
-# fish-bot
-A simple fishing bot for games
+<h1 align="center">  fish-bot </h1>
+
+
+<p align="center">
+<img width="418" height="676" alt="1" src="https://github.com/user-attachments/assets/9dd9d939-2fc6-43dd-88d3-35a65091dc9e" />
+
 
 <h1 align="center"> ⚙️ Step-by-Step Configuration </h1>
 
